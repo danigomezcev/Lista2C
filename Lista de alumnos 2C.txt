@@ -5,5 +5,6 @@ Alumnos:
 Arnau Morilla G Numero ONE
 Elisa Rojas
 Marc Agudo
+Oriol Muñoz
 Victor Lopez
 
